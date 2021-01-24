@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Blog Post!
-published: false
+published: true
 ---
 # This is your first blog with Jekyll
 
